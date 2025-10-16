@@ -16,8 +16,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Project One-pager (Problem, Goal, Success Metrics)
 - Stakeholder list & communication plan
 - High-level timeline and key milestones
-- Initial risk list
+- Initial risk list (reviewed by Security/Compliance Officer)
 - Resource needs (team roles, rough effort estimate)
+- Role assignments and handoff points clearly defined
 
 ## Project One-pager Template
 - Project name:
@@ -35,6 +36,9 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Security/compliance requirements identified (Security/Compliance Officer)
+- [ ] Customer success metrics defined (Customer Success Manager)
+- [ ] Key roles assigned (PM, Product Manager, QA Lead, Release Manager)
 
 ## Decision Gate
 Move to planning when:
