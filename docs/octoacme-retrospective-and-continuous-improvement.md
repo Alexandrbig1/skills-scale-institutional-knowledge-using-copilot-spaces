@@ -31,3 +31,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Incorporate customer feedback (Customer Success Manager)
+- Review quality metrics and test effectiveness (QA Lead)
+- Assess security posture and compliance status (Security/Compliance Officer)
+- Evaluate release process efficiency (Release Manager)

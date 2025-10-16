@@ -17,7 +17,10 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: owns test planning, ensures coverage, and organizes QA efforts.
+- Release Manager: coordinates release schedules, deployment checklists, and stakeholder communication.
+- Security/Compliance Officer: reviews plans for regulatory/security risks and manages mitigations.
+- Customer Success Manager: monitors post-release feedback and ensures customer needs are met.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts

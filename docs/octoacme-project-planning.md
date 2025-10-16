@@ -40,4 +40,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted (QA Lead)
+- [ ] Security and compliance requirements reviewed (Security/Compliance Officer)
+- [ ] Release schedule and deployment windows identified (Release Manager)
+- [ ] Customer success metrics and feedback loops defined (Customer Success Manager)
